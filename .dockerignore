@@ -1,0 +1,16 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.env
+.git
+.gitignore
+*.egg-info
+build
+dist
+.eggs
+.vscode
+.idea
+output.csv
+*.log
